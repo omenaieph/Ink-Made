@@ -33,5 +33,3 @@ gsap.from('.support', {opacity: 0, duration: 0.6, delay: 0.5, y: -30, scrollTrig
 gsap.from('.about', {opacity: 0, duration: 0.7, delay: 0.7, y: -30, scrollTrigger:".about"})
 gsap.from('.contact', {opacity: 0, duration: 0.8, delay: 0.9, y: -30, scrollTrigger:".contact"})
 gsap.from('.copyright', {opacity: 0, duration: 0.9, delay: 0.7, y: 30, scrollTrigger:".copyright"})
-
-
